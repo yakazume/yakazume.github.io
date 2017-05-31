@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://yakazume.github.io/"
 relativeurls = true
 languageCode = "en-us"
 title = "A Hugo website"
