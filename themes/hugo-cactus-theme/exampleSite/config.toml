@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://yakazume.github.io/"
+baseurl = "https://example.org/"
 themesDir = "../.."
 languageCode = "en-us"
 title = "Hugo Cactus Theme"
@@ -7,12 +7,12 @@ theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
-disqusShortname = ""
+disqusShortname = "spf13"
 
 [params]
-	name = "Zuriel Torres"
+	name = "John Doe"
 	description = "Describe your website"
-	bio = "Actuario & Matemático"
+	bio = "Blogger & Programmer"
 	# Enter optionally your twitter account
 	twitter = "Your Twitter account"
 	enableRSS = true
