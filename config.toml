@@ -26,8 +26,8 @@ disqusShortname = ""
 	# translate or customize each string of the theme.
 
 	# Navigation links
-	home = ""
-	subscribe = ""
+	home = "Inicio"
+	subscribe = "Suscribete"
 	# Pagination links
 	olderPosts = ""
 	newerPosts = ""
